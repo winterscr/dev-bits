@@ -1,0 +1,116 @@
+{
+    "buckets": [
+        {
+            "Name": "extras",
+            "Source": "https://github.com/ScoopInstaller/Extras",
+            "Updated": "2023-02-01T22:11:11+00:00",
+            "Manifests": 1772
+        },
+        {
+            "Name": "main",
+            "Source": "~\\scoop\\buckets\\main",
+            "Updated": "2023-02-01T23:33:18.3571442+00:00",
+            "Manifests": 1151
+        }
+    ],
+    "apps": [
+        {
+            "Version": "22.01",
+            "Updated": "2023-02-01T23:34:19.7737275+00:00",
+            "Source": "main",
+            "Info": "",
+            "Name": "7zip"
+        },
+        {
+            "Version": "2.39.1.windows.1",
+            "Updated": "2023-02-01T23:34:28.4579348+00:00",
+            "Source": "main",
+            "Info": "",
+            "Name": "git"
+        },
+        {
+            "Version": "3.11.0",
+            "Updated": "2023-02-01T23:34:29.7275394+00:00",
+            "Source": "main",
+            "Info": "",
+            "Name": "helm"
+        },
+        {
+            "Version": "2.5.0.0",
+            "Updated": "2023-02-01T23:34:37.8115038+00:00",
+            "Source": "extras",
+            "Info": "",
+            "Name": "hxd"
+        },
+        {
+            "Version": "0.50",
+            "Updated": "2023-02-01T23:34:34.5576202+00:00",
+            "Source": "main",
+            "Info": "",
+            "Name": "innounp"
+        },
+        {
+            "Version": "1.9.6",
+            "Updated": "2023-02-01T23:34:43.2449684+00:00",
+            "Source": "extras",
+            "Info": "",
+            "Name": "kdiff3"
+        },
+        {
+            "Version": "1.1.10",
+            "Updated": "2023-02-01T23:34:44.5039733+00:00",
+            "Source": "main",
+            "Info": "",
+            "Name": "nvm"
+        },
+        {
+            "Version": "14.0.3",
+            "Updated": "2023-02-01T23:34:47.0242787+00:00",
+            "Source": "main",
+            "Info": "",
+            "Name": "oh-my-posh"
+        },
+        {
+            "Version": "0.7.0",
+            "Updated": "2023-02-01T23:37:43.6362303+00:00",
+            "Source": "extras",
+            "Info": "",
+            "Name": "posh-docker"
+        },
+        {
+            "Version": "1.1.0",
+            "Updated": "2023-02-01T23:34:47.473688+00:00",
+            "Source": "extras",
+            "Info": "",
+            "Name": "posh-git"
+        },
+        {
+            "Version": "3.21",
+            "Updated": "2023-02-01T23:34:50.0744578+00:00",
+            "Source": "extras",
+            "Info": "",
+            "Name": "rufus"
+        },
+        {
+            "Version": "9.0",
+            "Updated": "2023-02-01T23:34:55.1857526+00:00",
+            "Source": "main",
+            "Info": "",
+            "Name": "vim"
+        },
+        {
+            "Version": "1.74.3",
+            "Updated": "2023-02-02T00:00:54.1512152+00:00",
+            "Source": "extras",
+            "Info": "",
+            "Name": "vscode"
+        },
+        {
+            "Version": "4.12",
+            "Updated": "2023-02-02T00:01:45.6933633+00:00",
+            "Source": "extras",
+            "Info": "",
+            "Name": "wiztree"
+        }
+    ]
+}
